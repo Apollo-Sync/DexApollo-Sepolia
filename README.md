@@ -54,4 +54,10 @@ nvm install 22
 nvm use 22
 nvm alias default 22
 ```
+**Check version**
+```
+node -v    # → v22.xx.x
+npm -v     # → 10.xx.x
+```
+
 
